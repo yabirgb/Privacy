@@ -22,6 +22,8 @@ A list of different tools and apps that I use thinking in my privacy and the Ope
 * [PrivacyBadger](https://www.eff.org/privacybadger) - Block spying ads and invisible trackers.
 * [uBlock](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean.
 * [KeePass](https://github.com/pfn/passifox) - KeePass extension for chromium and firefox.
+* [Decentraleyes](https://decentraleyes.org/) - Hide from CDNs.
+* [HTTPS everywhere](https://www.eff.org/https-everywhere)
 
 ## Smartphone
 
