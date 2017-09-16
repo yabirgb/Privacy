@@ -1,6 +1,6 @@
 # Privacy tools
 
-A list of different tools and apps that I use thinking in my privacy and Open-Source community.
+A list of different tools and apps that I use thinking in my privacy and the Open-Source community.
 
 1. [Internet](##Internet)
 2. [Browser Extensions](##Extensions) 
