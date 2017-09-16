@@ -7,7 +7,7 @@ A list of different tools and apps that I use thinking in my privacy and Open-So
 2. [Smartphone](##Smarhphone)
 2. [On the PC](##PC)
 
-(## Internet)
+[Internel](## Internet)
 
 * [Firefox](https://www.mozilla.org/es-ES/firefox/) - We all know Firefox.
 * [Chromium](http://www.chromium.org/) - Chrome like without the most of Google.
