@@ -4,8 +4,9 @@ A list of different tools and apps that I use thinking in my privacy and the Ope
 
 1. [Internet](#internet)
 2. [Browser Extensions](#extensions) 
-2. [Smartphone](#smarhphone)
-2. [On the PC](#pc)
+3. [Smartphone](#smarhphone)
+4. [Desktop](#desktop)
+5. [Alternatives](#alternatives)
 
 ## Internet
 
@@ -28,11 +29,19 @@ A list of different tools and apps that I use thinking in my privacy and the Ope
 * [MicroG](https://microg.org/) - A free-as-in-freedom re-implementation of Google’s proprietary Android user space apps and libraries.
 * [Telegram](https://telegram.org/) - Messaging app.
 * [K-9 Mail](https://k9mail.github.io/) - Email client.
+* [Keepass2Android](https://keepass2android.codeplex.com/) - KeePass on android
 
-## PC
+## Desktop
 
 * [Manjaro](https://manjaro.org/) - ArchLinux flavour.
 * [KeePass](http://keepass.info/) - Free, open source, light-weight and easy-to-use password manager.
 * [Thunderbird](https://www.mozilla.org/es-ES/thunderbird/) - Email client.
 * [Emacs](https://www.gnu.org/software/emacs/) - The best text editor.
 * [Atom](https://github.atom.io/) - Another text editor.
+
+## Alternatives
+
+* Google Maps -> [OpenStreetMap](http://www.openstreetmap.org/)
+* Gmail -> [Fastmail](https://www.fastmail.com/)
+* Google Analytics -> [SimilarWeb](http://similarweb.com/)
+* YouTube -> [Vimeo](https://vimeo.com/) or Oh No! :(
