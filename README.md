@@ -12,6 +12,7 @@ A list of different tools and apps that I use thinking in my privacy and the Ope
 
 * [Firefox](https://www.mozilla.org/es-ES/firefox/) - We all know Firefox.
 * [Chromium](http://www.chromium.org/) - Chrome like without the most of Google.
+* [Tor Browser](https://www.torproject.org/index.html.en) - Use the Tor network to surf the web.
 * [DuckDuckgo](https://duckduckgo.com/) - Search Engine that doesn't follows you.
 * [Mastodon](https://joinmastodon.org/) - The world’s largest free, open-source, decentralized microblogging network.
 * [GitLab](https://about.gitlab.com/) - The platform for modern developers (GitHub alternative).
@@ -36,6 +37,7 @@ A list of different tools and apps that I use thinking in my privacy and the Ope
 ## Desktop
 
 * [Manjaro](https://manjaro.org/) - ArchLinux flavour.
+* [Tails](https://tails.boum.org/) - Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
 * [KeePass](http://keepass.info/) - Free, open source, light-weight and easy-to-use password manager.
 * [Thunderbird](https://www.mozilla.org/es-ES/thunderbird/) - Email client.
 * [Emacs](https://www.gnu.org/software/emacs/) - The best text editor.
