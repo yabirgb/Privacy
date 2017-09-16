@@ -2,10 +2,10 @@
 
 A list of different tools and apps that I use thinking in my privacy and the Open-Source community.
 
-1. [Internet](##Internet)
-2. [Browser Extensions](##Extensions) 
-2. [Smartphone](##Smarhphone)
-2. [On the PC](##PC)
+1. [Internet](#internet)
+2. [Browser Extensions](#extensions) 
+2. [Smartphone](#smarhphone)
+2. [On the PC](#pc)
 
 ## Internet
 
